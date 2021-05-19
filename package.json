@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jjenki11/web-application/issues"
   },
-  "homepage": "https://github.com/jjenki11/web-application#readme"
+  "homepage": "https://github.com/jjenki11/web-application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
